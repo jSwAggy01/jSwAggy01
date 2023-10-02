@@ -11,7 +11,7 @@ My name is Jason and I'm a recent graudate from the University of California, Ri
 - **Information Technology Intern at San Bernardino County** - Computer specialist overseeing the large-scale infrastucture of a county-wide collection of digital system-related issues (San Bernardino, Fall 2022).
 
 🌱 Interests:
-- Virtual reality
+- Natural language processing (NLP)
 - Speech recognition
 
 💬 I'm reachable via email or LinkedIn! jasondeleon2432@gmail.com | www.linkedin.com/in/jasondeleon2432
