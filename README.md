@@ -3,7 +3,7 @@
 My name is Jason and I'm a recent graudate from the University of California, Riverside. I'm a mathematician by trade but I've grown quite fond of programming over the years, so much so that it has developed into a vested interest of mine.
 
 🔭 Currently I'm:
-- Writing documentation for all of my past projects and uploading them here!
+- Working on personal projects!
 - Pursuing my GIS and AWS certification.
 - Exploring online machine learning opportunities to further my goal of becoming an ML engineer.
 
