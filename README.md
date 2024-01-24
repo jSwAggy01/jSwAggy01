@@ -5,7 +5,7 @@ My name is Jason and I'm a recent graduate from the University of California, Ri
 🔭 Currently I'm:
 - Working on personal projects that align with modern tech stacks.
 - Pursuing my C# certification!
-- Exploring online machine learning opportunities to further my goal of becoming an ML engineer.
+- Exploring online machine learning opportunities to further my long-term goal of becoming an ML engineer.
 
 ⚡ Work experience:
 - **Information Technology Intern at San Bernardino County** - Computer specialist overseeing the large-scale infrastucture of a county-wide collection of digital system-related issues (San Bernardino, Fall 2022).
