@@ -1,5 +1,7 @@
 ### Helloo!  👋
 
+Welcome to my GitHub portfolio!
+
 My name is Jason and I'm a recent graduate from the University of California, Riverside. I'm a mathematician by trade but I've grown quite fond of programming over the years, so much so that it has developed into a vested interest of mine.
 
 🔭 Currently I'm:
