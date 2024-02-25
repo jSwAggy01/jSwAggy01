@@ -1,8 +1,6 @@
-### Helloo!  👋
+### Welcome to my GitHub portfolio!
 
-Welcome to my GitHub portfolio!
-
-My name is Jason and I'm a recent graduate from the University of California, Riverside. I'm a mathematician by trade but I've grown quite fond of programming over the years, so much so that it has developed into a vested interest of mine.
+My name is Jason and I'm a recent graduate from the University of California, Riverside. I'm a mathematician by trade but I've grown quite fond of programming over the years, so much so that it has developed into a vested interest of mine. Below you'll find a couple of tidbits about me, and further down you will find repositories of projects that I have completed throughout my programming career! I'm always working on something, so please feel free to stop by to see what I'm up to.
 
 🔭 Currently I'm:
 - Working on personal projects that align with modern tech stacks.
