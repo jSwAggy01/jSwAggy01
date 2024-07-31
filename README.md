@@ -5,16 +5,15 @@ My name is Jason and I'm a recent graduate from the University of California, Ri
 Below you'll find a couple of tidbits about me, and further down you will find 'pinned' repositories of projects that I have completed throughout my programming career! I'm always working on something, so please feel free to stop by to see what I'm up to.
 
 🔭 Currently I'm:
-- Job hunting!
-- Working on personal projects that align with modern tech stacks.
-- Exploring online machine learning opportunities to further my long-term goal of becoming an ML engineer.
+- Searching for entry-level developer opportunities.
+- Building a full-stack data analytics project.
 
 ⚡ Work experience:
 - **Information Technology Intern at San Bernardino County** - Computer specialist overseeing the large-scale infrastucture of a county-wide collection of digital system-related issues (San Bernardino, Fall 2023).
 
 🌱 Interests:
-- Natural language processing (NLP)
-- Speech recognition
+- Basketball🏀
+- Health & Fitness🏋️
 
 💬 I'm reachable via email or LinkedIn! jasondeleon2432@gmail.com | www.linkedin.com/in/jasondeleon2432
 
