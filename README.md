@@ -9,7 +9,7 @@ Below you'll find a couple of tidbits about me, and further down you will find '
 - Self-studying data science and AI to further my long-term goal of becoming an ML expert.
 
 ⚡ Work experience:
-- **IT Specialist (incoming) at Stealth Startup** - Software engineer enhancing the training for over 100k students throughout the country via the use of digital instruction and VR simulation (est. Summer 2025).
+<!--- **IT Specialist (incoming) at Stealth Startup** - Software engineer enhancing the training for over 100k students throughout the country via the use of digital instruction and VR simulation (est. Summer 2025).-->
 - **IT Intern at San Bernardino County** - Computer specialist overseeing the large-scale infrastucture of a county-wide collection of digital system-related issues (Fall 2023).
 
 🌱 Interests:
