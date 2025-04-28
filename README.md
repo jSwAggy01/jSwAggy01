@@ -10,7 +10,7 @@ Below you'll find a couple of tidbits about me, and further down you will find '
 
 ⚡ Work experience:
 <!--- **IT Specialist (incoming) @ Stealth Startup** - Software engineer enhancing the training for over 100k students throughout the country via the use of digital instruction and VR simulation (est. Summer 2025).-->
-- **Section Leader @ Stanford University** - Programming teacher helping students from across the globe learn Python via Stanford University's online "Code in Place" program (Summer 2025).
+- **Section Leader @ Code in Place** - Programming teacher helping students from across the globe learn Python via Stanford University's online "Code in Place" program (Summer 2025).
 - **IT Intern @ San Bernardino County** - Computer specialist overseeing the large-scale infrastucture of a county-wide collection of digital system-related issues (Fall 2023).
 
 🌱 Interests:
