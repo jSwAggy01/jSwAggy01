@@ -14,7 +14,7 @@ I graduated from the University of California, Riverside with a BS in Computatio
 
 #### ⚡ Professional Experience:
 * **Software Engineer Intern** @ AI Squads (Spring 2026)
-* **AI Teaching Assistant** @ Campus.edu (Winter 2025 - Spring 2026)
+* **AI Teaching Assistant** @ Campus.edu (Winter 2025)
 * **Programming Instructor** @ Stanford University (Summer 2025)
 * **IT Intern** @ San Bernardino County (Winter 2022)
 
