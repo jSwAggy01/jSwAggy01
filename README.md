@@ -8,7 +8,7 @@ I graduated from the University of California, Riverside with a BS in Computatio
 
 #### 🔭 What I'm currently up to:
 * **Engineering AI Solutions:** Collaborating on scalable features for an AI-coding platform as a Software Engineer Intern at AI Squads.
-* **Mentoring:** Serving as an AI Teaching Assistant at Campus.edu, guiding students through 'Vibe Coding' and agentic code development.
+* **Mentoring:** Serving as an AI Teaching Assistant at Campus.edu, guiding students through 'Vibe Coding' and agentic development.
 
 ---
 
