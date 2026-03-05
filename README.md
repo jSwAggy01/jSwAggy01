@@ -1,44 +1,61 @@
 ### Welcome to my GitHub portfolio! 👋
 
-My name is Jason, a Software Engineer blending a background in Computational Mathematics and Computer Science with hands-on experience in full-stack development and AI integration.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Jason!+%F0%9F%91%8B;Software+Engineer+%7C+AI+Enthusiast;Computational+Mathematician;Building+Scalable+Solutions" alt="Typing SVG" />
+  </a>
+</div>
 
-I graduated from the University of California, Riverside with a BS in Computational Mathematics, and I am expanding my technical foundation by pursuing an AS in Computer Science at San Bernardino Valley College. I'm passionate about building scalable solutions, mentoring others in tech, and leveraging data to drive insights.
-
----
-
-#### 🔭 What I'm currently up to:
-* **Engineering AI Solutions:** Collaborating on scalable features for an AI-coding platform as a Software Engineer Intern at AI Squads.
-* **Mentoring:** Serving as an AI Teaching Assistant at Campus.edu, guiding students through 'Vibe Coding' and agentic development.
-
----
-
-#### ⚡ Professional Experience:
-* **Software Engineer Intern** @ AI Squads (Spring 2026)
-* **AI Teaching Assistant** @ Campus.edu (Winter 2025)
-* **Programming Instructor** @ Stanford University (Summer 2025)
-* **IT Intern** @ San Bernardino County (Winter 2022)
+<div align="center">
+  <a href="mailto:jasondeleon2432@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/jasondeleon2432"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</div>
 
 ---
 
-#### 🛠️ Tech Stack & Tools:
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, C#, C++, JavaScript, SQL |
-| **Developer Tools** | .NET SDK, Git, Azure, Figma, VSCode |
-| **AI Tools** | Replit, Antigravity, OpenAI, ClaudeAI, v0, Bolt |
+#### 🔭 About Me
+I am a Software Engineer blending a background in Computational Mathematics and Computer Science. 
+* 🎓 Graduated with a BS in Computational Mathematics from UC Riverside.
+* 📚 Currently pursuing an AS in Computer Science at San Bernardino Valley College.
+* 💼 Currently working as a Software Engineer Intern at AI Squads and an AI Teaching Assistant at Campus.edu.
 
 ---
 
-#### 🌱 Interests:
-* Basketball & Sports Analytics
-* Health & Fitness 
-* Continuous Learning & Academia
+#### 🛠️ Tech Stack & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <br>
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+</div>
 
 ---
 
-#### 📫 Let's Connect!
-> 💬 I'm reachable via email or LinkedIn! jasondeleon2432@gmail.com | www.linkedin.com/in/jasondeleon2432
+#### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jSwAggy01&show_icons=true&theme=radical" alt="Jason's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jSwAggy01&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+#### 📂 Expandable Experience Log
+<details>
+  <summary><b>Click to expand my work history! 👇</b></summary>
+  <br>
+  <ul>
+    <li><b>Software Engineer Intern</b> @ AI Squads <i>(Feb 2026 – Present)</i></li>
+    <li><b>AI Teaching Assistant</b> @ Campus.edu <i>(Dec 2025 – Jan 2026)</i></li>
+    <li><b>Programming Instructor</b> @ Stanford University <i>(Apr 2025 – Jun 2025)</i></li>
+    <li><b>IT Intern</b> @ San Bernardino County <i>(Sep 2022 – Jan 2023)</i></li>
+  </ul>
+</details>
 
 <!--
 **jSwAggy01/jSwAggy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
