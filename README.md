@@ -1,24 +1,44 @@
 ### Welcome to my GitHub portfolio! 👋
 
-My name is Jason and I'm a recent graduate from the University of California, Riverside. I'm a mathematician by trade but I've grown quite fond of programming over the years, so much so that it has developed into a vested interest of mine.
+My name is Jason, a Software Engineer blending a background in Computational Mathematics and Computer Science with hands-on experience in full-stack development and AI integration.
 
-Below you'll find a couple of tidbits about me, and further down you will find 'pinned' repositories of projects that I have completed throughout my programming career! I'm always working on something, so please feel free to stop by to see what I'm up to.
+I graduated from the University of California, Riverside with a BS in Computational Mathematics, and I am expanding my technical foundation by pursuing an AS in Computer Science at San Bernardino Valley College. I'm passionate about building scalable solutions, mentoring others in tech, and leveraging data to drive insights.
 
-🔭 Currently I'm:
-- Building a full-stack data analytics project.
-- Self-studying data science and AI to further my long-term goal of becoming an ML expert.
+---
 
-⚡ Work experience:
-<!--- **IT Specialist (incoming) @ Stealth Startup** - Software engineer enhancing the training for over 100k students throughout the country via the use of digital instruction and VR simulation (est. Summer 2025).-->
-- **Section Leader @ Code in Place** - Programming teacher helping students from across the globe learn Python via Stanford University's online "Code in Place" program (Summer 2025).
-- **IT Intern @ San Bernardino County** - Computer specialist overseeing the large-scale infrastucture of a county-wide collection of digital system-related issues (Fall 2023).
+#### 🔭 What I'm currently up to:
+* **Engineering AI Solutions:** Collaborating on scalable features for an AI-coding platform as a Software Engineer Intern at AI Squads.
+* **Mentoring:** Serving as an AI Teaching Assistant at Campus.edu, guiding students through 'Vibe Coding' and agentic code development.
 
-🌱 Interests:
-- Basketball🏀
-- Health & Fitness🏋️
-- Academia📚
+---
 
-💬 I'm reachable via email or LinkedIn! jasondeleon2432@gmail.com | www.linkedin.com/in/jasondeleon2432
+#### ⚡ Professional Experience:
+* **Software Engineer Intern** @ AI Squads (Spring 2026)
+* **AI Teaching Assistant** @ Campus.edu (Winter 2025 - Spring 2026)
+* **Programming Instructor** @ Stanford University (Summer 2025)
+* **IT Intern** @ San Bernardino County (Winter 2022)
+
+---
+
+#### 🛠️ Tech Stack & Tools:
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C#, C++, JavaScript, SQL |
+| **Developer Tools** | .NET SDK, Git, Azure, Figma, VSCode |
+| **AI Tools** | Replit, Antigravity, OpenAI, ClaudeAI, v0, Bolt |
+
+---
+
+#### 🌱 Interests:
+* Basketball & Sports Analytics
+* Health & Fitness 
+* Continuous Learning & Academia
+
+---
+
+#### 📫 Let's Connect!
+> 💬 I'm reachable via email or LinkedIn! jasondeleon2432@gmail.com | www.linkedin.com/in/jasondeleon2432
 
 <!--
 **jSwAggy01/jSwAggy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
