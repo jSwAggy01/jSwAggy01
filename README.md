@@ -35,16 +35,13 @@ I am a Software Engineer blending a background in Computational Mathematics and 
 </div>
 
 ---
-
+<!--
 #### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jSwAggy01&show_icons=true&theme=radical" alt="Jason's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jSwAggy01&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+[![Jason's GitHub Stats](https://github-stats.vercel.app/api?username=jSwAggy01&show_icons=true&theme=radical)](https://github.com/jSwAggy01)
+[![Top Languages](https://github-stats.vercel.app/api/top-langs/?username=jSwAggy01&layout=compact&theme=radical)](https://github.com/jSwAggy01)
 
 ---
-
+-->
 #### 📂 Expandable Experience Log
 <details>
   <summary><b>Click to expand my work history! 👇</b></summary>
@@ -56,6 +53,8 @@ I am a Software Engineer blending a background in Computational Mathematics and 
     <li><b>IT Intern</b> @ San Bernardino County <i>(Sep 2022 – Jan 2023)</i></li>
   </ul>
 </details>
+
+---
 
 <!--
 **jSwAggy01/jSwAggy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
