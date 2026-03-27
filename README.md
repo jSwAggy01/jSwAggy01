@@ -17,7 +17,7 @@
 I am a Software Engineer blending a background in Computational Mathematics and Computer Science. 
 * 🎓 Graduated with a BS in Computational Mathematics from UC Riverside.
 * 📚 Currently pursuing an AS in Computer Science at San Bernardino Valley College.
-* 💼 Currently working as a Software Engineer Intern at AI Squads and an AI Teaching Assistant at Campus.edu.
+* 💼 Currently working as a Software Engineer Intern at AI Squads.
 
 ---
 
@@ -34,8 +34,8 @@ I am a Software Engineer blending a background in Computational Mathematics and 
   <br>
   <ul>
     <li><b>Software Engineer Intern</b> @ AI Squads <i>(Feb 2026 – Present)</i></li>
-    <li><b>AI Teaching Assistant</b> @ Campus.edu <i>(Dec 2025 – Jan 2026)</i></li>
-    <li><b>Programming Instructor</b> @ Stanford University <i>(Apr 2025 – Jun 2025)</i></li>
+    <li><b>AI Teaching Assistant</b> @ Campus.edu <i>(Dec 2025 – Mar 2026)</i></li>
+    <li><b>Section Leader</b> @ Stanford CIP <i>(Apr 2025 – Jun 2025)</i></li>
     <li><b>IT Intern</b> @ San Bernardino County <i>(Sep 2022 – Jan 2023)</i></li>
   </ul>
 </details>
